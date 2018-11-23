@@ -1,5 +1,17 @@
+@import '~antd/dist/antd.css';
+
 body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+}
+
+.logo {
+  width: 60px;
+  margin-right: 100px;
+  height: 100%;
+  float: left;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKBSURBVFhHYxgFo2AUkAHOXb9z7vyNO//piUF2Qq0nDGCaDp699P/ohatg9olL1//vO3UBxVBqY6j1hAFI8SGg4yYsWfd/0rIN/09fufl/+qotYP6OI6exGk4NDLWeMAApBoUcyHHTVm7+f+ba7f/z1u/4P3Hp+v97T57Hajg1MNR6wgCmARRyZ67dArPPXr/9/+SVGygGUhtDrScMQIoPn73wf9323XTBILtIduDkeYv+qxlZ0AWD7Bp1ICV41IHIWMvK7L9ZtN5/XVdjrPLYMF0d6Fyl+r/sP/N/+yJ1rPLYMF0dGLld7H/JT9b/WjamWOWxYZo4EOQA51pVFDF1E4v/Be/Z/yeeEoCLOVWr/te0NENRh46p6kANc/P/Hp2K//PecvzPuM2DImcepwuOXq8+BbgYSE3Oc67/TsCoVzNGqEXGVHEgKHRAoZH9hAvsiNI/LP8D5sugqPGbKQeWMwk1gIsFLZb+X/qXGSyeconvv0W8LooeEKaKA03C9MGWgHDsPpH/xsH6KPIgnHqZDxxa6OJmkXr/k84IQPT/Y/5vHISqlyoONPI3AIcayJIoYEbQc0MtRnSdjcEhFbpaEkUchHWcTP6HrpIEOw6kHzmEQZgqDgRhk3D9/ykX+MGWFH1l++/epgSXw1W8gNQUfmIHy2U94sZa/FDNgWAMTOhuzcr/Cz+yo2QSXMULSA3IMz5T5MAZDFkOhqnrQCgGRanPJHkwG5SB8t9x/E86jSheYNh3mhxGckDHNHEgMsZWvJCCae5Ai0Sd/4HAIsfAxxCrPCFMcwdSikcdSCkedSClmCwH7j568v/0hcvogkF2kezAgcBQ60fBKBgFxAMGBgCXXO0pjsuDCAAAAABJRU5ErkJggg==')
 }
